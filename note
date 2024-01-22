@@ -1,0 +1,37 @@
+## les bibliothèques à utiliser
+   ## MaterialUUi
+        npm install @mui/material @emotion/react @emotion/styled
+   ## Json
+        npm install json-server
+   ## Axios
+        npm install axios
+## Les tâches à faire sont
+    Inscription
+    Connexion
+
+## Configuration du serveur
+    db.json
+## Lancer le serveur
+    json-server --watch db.json
+## Install reactDom
+    npm install react-dom
+## Gestion de formulaire avec l'utilisation de react-hook-form quifacilite la gestion de formulaire
+    npm install react-hook-form
+## Gestion de notifications
+   npm react-hot-toast
+
+## Pour enregistrer les données dans le serveur:
+    On utilise Fetch ou Axios
+## Redirection des pages on utilise
+    useNavigate
+## Pour stocker les données de l'utilisateur 
+    On utilse localStorage
+## L'authentification et la connexion
+
+## Gestion de notification 
+
+## Un composant pour ajouter les publications
+## Utilisation de reactQuery
+permet de gerer les requête que nous lanssons au serveur
+    npm i @tanstack/react-query
+    npm i @tanstack/react-query-devtools

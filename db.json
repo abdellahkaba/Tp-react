@@ -1,0 +1,62 @@
+{
+  "utilisateurs": [
+    {
+      "id": "f7a8",
+      "prenom": "Abdoulaye",
+      "nom": "Kaba",
+      "email": "abdallahkaba98@gmail.com",
+      "password": "password",
+      "passwordConfirm": "password"
+    },
+    {
+      "id": "89a6",
+      "prenom": "Oumar",
+      "nom": "Kallo",
+      "email": "oumar@gmail.com",
+      "password": "password",
+      "passwordConfirm": "password"
+    },
+    {
+      "id": "1a07",
+      "prenom": "Mussa",
+      "nom": "N'diaye",
+      "email": "mussa@gmail.com",
+      "password": "password",
+      "passwordConfirm": "password"
+    },
+    {
+      "id": "257b",
+      "prenom": "Mariam",
+      "nom": "Sangaré",
+      "email": "sangare@gmail.com",
+      "password": "password",
+      "passwordConfirm": "password"
+    }
+  ],
+  "publications": [
+    {
+      "id": "89a6",
+      "contenu": "Ma deuxième publication",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/etudiant-jeune-homme-cahiers-montrant-pouce-vers-haut-dans-approbation-souriant-satisfait-fond-bleu-studio_1258-65597.jpg?w=740&t=st=1705840864~exp=1705841464~hmac=bada4121985aaa0b174ba9e7d31832d1b4e4f00ebb196b8685a0497eb35cd091",
+      "datePublication": "2024-01-21T12:43:14.350Z",
+      "likePublication": 0,
+      "auteur": "Oumar"
+    },
+    {
+      "id": "89a6",
+      "contenu": "Troisième publication",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/etudiant-jeune-homme-cahiers-montrant-pouce-vers-haut-dans-approbation-souriant-satisfait-fond-bleu-studio_1258-65597.jpg?w=740&t=st=1705840864~exp=1705841464~hmac=bada4121985aaa0b174ba9e7d31832d1b4e4f00ebb196b8685a0497eb35cd091",
+      "datePublication": "2024-01-21T12:47:44.156Z",
+      "likePublication": 0,
+      "auteur": "Oumar"
+    },
+    {
+      "id": "89a6",
+      "contenu": "Quatirème publication",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/jolie-ecoliere-brune-debout-tenant-sac-dos-dossier-jaunes_651396-3321.jpg?w=740&t=st=1705842938~exp=1705843538~hmac=70889c26c22d2c4bed99c10241531d85b8f0f2a81eebc65756c703b69ba58f3d",
+      "datePublication": "2024-01-21T13:16:54.063Z",
+      "likePublication": 0,
+      "auteur": "Oumar"
+    }
+  ]
+}
