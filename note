@@ -14,7 +14,7 @@
 ## Lancer le serveur
     json-server --watch db.json
 ## Install reactDom
-    npm install react-dom
+    npm install react-router-dom
 ## Gestion de formulaire avec l'utilisation de react-hook-form quifacilite la gestion de formulaire
     npm install react-hook-form
 ## Gestion de notifications
